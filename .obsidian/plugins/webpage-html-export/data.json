@@ -113,7 +113,7 @@
       },
       "showOrphanNodes": true,
       "showAttachments": false,
-      "allowGlobalGraph": true,
+      "allowGlobalGraph": false,
       "allowExpand": true,
       "attractionForce": 10,
       "linkLength": 15,
