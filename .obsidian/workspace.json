@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "394b5814aec16c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test_new_post2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test_new_post2.md"
               }
             }
           }
@@ -175,8 +187,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "944b1238a143ae62",
+  "active": "394b5814aec16c21",
   "lastOpenFiles": [
+    "README.md",
+    "post/readme.html",
+    "test_new_post.md",
+    "post/test_new_post.html",
+    "test_new_post2.md",
+    "post/test_new_post2.html",
     "post/site-lib/search-index.json",
     "post/site-lib/metadata.json",
     "post/site-lib/styles/obsidian.css",
@@ -184,15 +202,9 @@
     "post/site-lib/styles/global-variable-styles.css",
     "post/site-lib/scripts/webpage.js",
     "post/site-lib/scripts/tinycolor.js",
-    "post/site-lib/scripts/pixi.js",
-    "post/site-lib/scripts/minisearch.js",
-    "post/site-lib/scripts/graph-wasm.js",
-    "post/site-lib/scripts/graph-wasm.wasm",
     "post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/site-lib/media/favicon.png",
     "post/site-lib/media/3d6c1bdc4d87cde4de67.svg",
-    "test_new_post.md",
-    "README.md",
     "post/post/site-lib/media/favicon.png",
     "post/post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/post/site-lib/media/3d6c1bdc4d87cde4de67.svg"
