@@ -177,6 +177,9 @@
   },
   "active": "944b1238a143ae62",
   "lastOpenFiles": [
+    "post/site-lib/rss.xml",
+    "test_new_post.md",
+    "README.md",
     "post/post/site-lib/styles/obsidian.css",
     "post/post/site-lib/styles/main-styles.css",
     "post/post/site-lib/styles/global-variable-styles.css",
@@ -187,12 +190,9 @@
     "post/post/site-lib/scripts/minisearch.js",
     "post/post/site-lib/scripts/graph-wasm.wasm",
     "post/post/site-lib/scripts/graph-wasm.js",
-    "post/post/site-lib/scripts/graph-render-worker.js",
     "post/post/site-lib/media/favicon.png",
     "post/post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/post/site-lib/media/3d6c1bdc4d87cde4de67.svg",
-    "test_new_post.md",
-    "README.md",
     "post/site-lib/media/favicon.png",
     "post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/site-lib/media/3d6c1bdc4d87cde4de67.svg"
