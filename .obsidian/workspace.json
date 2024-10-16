@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "944b1238a143ae62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test_new_post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test_new_post.md"
               }
             }
           }
@@ -162,8 +175,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7862f4683f5dbe6",
+  "active": "944b1238a143ae62",
   "lastOpenFiles": [
+    "README.md",
+    "post/readme.html",
+    "test_new_post.md",
+    "post/test_new_post.html",
     "post/site-lib/search-index.json",
     "post/site-lib/metadata.json",
     "post/site-lib/styles/obsidian.css",
@@ -172,12 +189,8 @@
     "post/site-lib/scripts/webpage.js",
     "post/site-lib/scripts/graph-wasm.wasm",
     "post/site-lib/scripts/tinycolor.js",
-    "post/site-lib/scripts/pixi.js",
-    "post/site-lib/scripts/minisearch.js",
-    "post/site-lib/scripts/graph-render-worker.js",
     "post/site-lib/media/favicon.png",
     "post/site-lib/media/874d8b8e340f75575caa.svg",
-    "post/site-lib/media/3d6c1bdc4d87cde4de67.svg",
-    "README.md"
+    "post/site-lib/media/3d6c1bdc4d87cde4de67.svg"
   ]
 }
