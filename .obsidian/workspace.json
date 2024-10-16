@@ -124,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test_new_post2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test_new_post2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test_new_post2.md"
+              }
             }
           }
         ]
@@ -183,8 +187,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c8e90573a12e1017",
+  "active": "394b5814aec16c21",
   "lastOpenFiles": [
+    "post/site-lib/rss.xml",
     "test_new_post2.md",
     "README.md",
     "post/readme.html",
