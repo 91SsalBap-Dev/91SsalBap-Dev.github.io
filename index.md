@@ -1,3 +1,3 @@
-# gym
+# index
 
 [[mindmap]]
