@@ -7,11 +7,11 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\jikan\\Desktop\\91SsalBap-Dev.github.io\\post",
+    "exportPath": "C:\\Users\\jikan\\Desktop\\91SsalBap-Dev",
     "filesToExport": [
-      "README.md",
-      "test_new_post.md",
-      "test_new_post2.md"
+      "post/index.md",
+      "post/test_new_post.md",
+      "post/test_new_post2.md"
     ],
     "addBodyClasses": true,
     "addMathjaxStyles": true,

@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "post/index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "079c4aa7a4fc0241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/mindmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mindmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -99,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "post/mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +132,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "mindmap의 백링크"
             }
           },
           {
@@ -116,10 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "test_new_post의 나가는 링크"
             }
           },
           {
@@ -130,7 +159,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,8 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "test_new_post.md"
+              },
+              "icon": "lucide-list",
+              "title": "test_new_post 개요"
             }
           }
         ]
@@ -162,24 +195,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7862f4683f5dbe6",
+  "active": "079c4aa7a4fc0241",
   "lastOpenFiles": [
-    "README.md",
-    "post/site-lib/search-index.json",
-    "post/site-lib/metadata.json",
-    "test_new_post.md",
-    "test_new_post2.md",
-    "post/site-lib/styles/obsidian.css",
-    "post/site-lib/styles/main-styles.css",
-    "post/site-lib/styles/global-variable-styles.css",
-    "post/site-lib/styles",
+    "mindmap.html",
+    "index.html",
+    "site-lib/search-index.json",
+    "site-lib/metadata.json",
+    "post/index.md",
+    "site-lib/styles/obsidian.css",
+    "site-lib/scripts/tinycolor.js",
+    "site-lib/styles/main-styles.css",
+    "site-lib/styles/global-variable-styles.css",
+    "site-lib/scripts/webpage.js",
+    "site-lib/scripts/pixi.js",
+    "site-lib/scripts/graph-render-worker.js",
+    "site-lib/media/favicon.png",
+    "site-lib/media/874d8b8e340f75575caa.svg",
+    "site-lib/media/3d6c1bdc4d87cde4de67.svg",
+    "post/mindmap.md",
+    "post/test_new_post.md",
+    "post/test_new_post2.md",
     "post/site-lib/media/favicon.png",
     "post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/site-lib/media/3d6c1bdc4d87cde4de67.svg",
-    "post/site-lib/media",
-    "post/site-lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "post/site-lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "post/site-lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "index.md.md",
     "post/post/site-lib/media/favicon.png",
     "post/post/site-lib/media/874d8b8e340f75575caa.svg",
