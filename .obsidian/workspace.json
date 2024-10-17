@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test_new_post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "test_new_post.md"
               }
             }
           }
@@ -189,6 +189,12 @@
   },
   "active": "394b5814aec16c21",
   "lastOpenFiles": [
+    "test_new_post.md",
+    "post/site-lib/rss.xml",
+    "index.md.md",
+    "post/91SsalBap-Dev.github.io.html",
+    "test_new_post2.md",
+    "README.md",
     "post/site-lib/search-index.json",
     "post/site-lib/metadata.json",
     "post/site-lib/styles/obsidian.css",
@@ -197,15 +203,9 @@
     "post/site-lib/fonts/cb10ffd7684cd9836a05.woff2",
     "post/site-lib/fonts/cbe0ae49c52c920fd563.woff2",
     "post/site-lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "post/site-lib/fonts/b5f0f109bc88052d4000.woff2",
-    "post/site-lib/fonts/94f2f163d4b698242fef.otf",
-    "post/site-lib/fonts/52ac8f3034507f1d9e53.ttf",
     "post/site-lib/media/favicon.png",
     "post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/site-lib/media/3d6c1bdc4d87cde4de67.svg",
-    "test_new_post.md",
-    "test_new_post2.md",
-    "README.md",
     "post/post/site-lib/media/favicon.png",
     "post/post/site-lib/media/874d8b8e340f75575caa.svg",
     "post/post/site-lib/media/3d6c1bdc4d87cde4de67.svg"
