@@ -8,7 +8,11 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "C:\\Users\\jikan\\Desktop\\91SsalBap-Dev.github.io\\post",
-    "filesToExport": [],
+    "filesToExport": [
+      "README.md",
+      "test_new_post.md",
+      "test_new_post2.md"
+    ],
     "addBodyClasses": true,
     "addMathjaxStyles": true,
     "addHeadTag": true,
@@ -105,7 +109,7 @@
     },
     "graphViewOptions": {
       "featureId": "graph-view",
-      "enabled": false,
+      "enabled": true,
       "displayTitle": "Graph View",
       "featurePlacement": {
         "selector": "#right-sidebar-content",
