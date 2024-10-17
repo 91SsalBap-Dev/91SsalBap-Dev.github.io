@@ -119,10 +119,10 @@
       "showAttachments": false,
       "allowGlobalGraph": false,
       "allowExpand": true,
-      "attractionForce": 10,
+      "attractionForce": 1,
       "linkLength": 15,
       "repulsionForce": 80,
-      "centralForce": 20,
+      "centralForce": 2,
       "edgePruning": 100,
       "minNodeRadius": 3,
       "maxNodeRadius": 7
