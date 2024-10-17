@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7862f4683f5dbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "079c4aa7a4fc0241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/mindmap.md",
+                "file": "mindmap.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "mindmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +84,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e469328fe9595728",
+        "id": "ee008b3c6da194e3",
         "type": "tabs",
         "children": [
           {
@@ -124,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/mindmap.md",
+                "file": "mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,22 +182,24 @@
   },
   "active": "079c4aa7a4fc0241",
   "lastOpenFiles": [
-    "mindmap.html",
-    "index.html",
     "site-lib/search-index.json",
     "site-lib/metadata.json",
-    "post/index.md",
+    "index.md",
     "site-lib/styles/obsidian.css",
     "site-lib/scripts/tinycolor.js",
     "site-lib/styles/main-styles.css",
     "site-lib/styles/global-variable-styles.css",
     "site-lib/scripts/webpage.js",
     "site-lib/scripts/pixi.js",
-    "site-lib/scripts/graph-render-worker.js",
+    "site-lib/scripts/minisearch.js",
+    "site-lib/scripts/graph-wasm.wasm",
+    "site-lib/scripts/graph-wasm.js",
     "site-lib/media/favicon.png",
     "site-lib/media/874d8b8e340f75575caa.svg",
     "site-lib/media/3d6c1bdc4d87cde4de67.svg",
+    "mindmap.md",
     "post/mindmap.md",
+    "post/index.md",
     "post/test_new_post.md",
     "post/test_new_post2.md",
     "post/site-lib/media/favicon.png",
