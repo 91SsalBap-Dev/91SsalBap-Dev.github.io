@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mindmap.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mindmap"
+              "title": "index"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mindmap.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "mindmap의 백링크"
+              "title": "index의 백링크"
             }
           },
           {
@@ -182,9 +182,10 @@
   },
   "active": "079c4aa7a4fc0241",
   "lastOpenFiles": [
+    "index.md",
+    "mindmap.md",
     "site-lib/search-index.json",
     "site-lib/metadata.json",
-    "index.md",
     "site-lib/styles/obsidian.css",
     "site-lib/scripts/tinycolor.js",
     "site-lib/styles/main-styles.css",
@@ -193,11 +194,9 @@
     "site-lib/scripts/pixi.js",
     "site-lib/scripts/minisearch.js",
     "site-lib/scripts/graph-wasm.wasm",
-    "site-lib/scripts/graph-wasm.js",
     "site-lib/media/favicon.png",
     "site-lib/media/874d8b8e340f75575caa.svg",
     "site-lib/media/3d6c1bdc4d87cde4de67.svg",
-    "mindmap.md",
     "post/mindmap.md",
     "post/index.md",
     "post/test_new_post.md",
