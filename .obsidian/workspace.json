@@ -182,9 +182,9 @@
   },
   "active": "079c4aa7a4fc0241",
   "lastOpenFiles": [
+    "index.md",
     "_config.yml",
     "새 텍스트 문서.txt",
-    "index.md",
     "mindmap.md",
     "site-lib/search-index.json",
     "site-lib/metadata.json",
@@ -194,7 +194,6 @@
     "site-lib/scripts/tinycolor.js",
     "site-lib/styles/main-styles.css",
     "site-lib/styles/global-variable-styles.css",
-    "site-lib/scripts/webpage.js",
     "site-lib/media/favicon.png",
     "site-lib/media/874d8b8e340f75575caa.svg",
     "site-lib/media/3d6c1bdc4d87cde4de67.svg",
