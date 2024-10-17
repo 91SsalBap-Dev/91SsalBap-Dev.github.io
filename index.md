@@ -1,5 +1,3 @@
-# Home
-
-home
+# gym
 
 [[mindmap]]
